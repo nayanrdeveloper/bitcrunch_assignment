@@ -5,6 +5,7 @@
 
 Simple Counter for add and subtract a number and maintain a history
 <p>Home Page</p>
+
 ![HomePage!](screenshot/bitcrunch_assignment.png)
 
 ### Built With
@@ -13,7 +14,7 @@ Simple Counter for add and subtract a number and maintain a history
 
 ### Prerequisites
 
-* [nodejs](https://nodejs.org/en/download/) and [yarn](https://classic.yarnpkg.com/en/)
+* [nodejs](https://nodejs.org/en/download/) and [npm](https://classic.yarnpkg.com/en/)
 
 ## How to run in your Local environment
 
